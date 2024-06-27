@@ -1,0 +1,71 @@
+25 Basic Linux Commands For Beginners
+
+What is Linux?
+Linux is a free and open-source software that operates on its own operating system. 
+The term ‘Linux’ stands for GNU + Linux. Initially developed by Linus Torvalds, it was created alongside the source code of Unix. 
+While Linux is extensively utilized for various purposes, its applications are well-known to many.
+
+Use of Linux Commands
+Linux commands are a type of Unix command or shell procedure. 
+They are the basic tools used to interact with Linux on an individual level. 
+Linux commands are used to perform a variety of tasks, including displaying information about files and directories.
+
+Linux operating system is used on servers, desktops, and maybe even your smartphone. 
+It has a lot of command line tools that can be used for virtually everything on the system.
+
+All users should be familiar with most of these commands as they are required for most operating system tasks and computer programming.
+
+Basic Linux Terminal Commands
+
+1. Ls command in Linux
+Displays information about files in the current directory.
+2. pwd command in Linux
+Displays the current working directory.
+3. mkdir command in Linux
+Creates a directory.
+4. cd command in Linux
+To navigate between different folders.
+5. rmdir command in Linux
+Removes empty directories from the directory lists.
+6. cp command in Linux
+Copy files from one directory to another.
+7. mv command in Linux
+Rename and Replace the files
+8. rm command in Linux
+Delete files
+9. uname command in Linux
+Command to get basic information about the OS
+10. locate command in Linux
+Find a file in the database.
+11. touch command in Linux
+Create empty files
+12. Ln command in Linux
+Create shortcuts to other files
+13. cat command in Linux
+Display file contents on terminal
+14. clear command in Linux
+Clear terminal 
+15. ps command in Linux
+Display the processes in terminal
+16. man command in Linux
+Access manual for all Linux commands
+17. grep command in Linux
+Search for a specific string in an output
+18. echo command in Linux
+Display active processes on the terminal
+19. wget command in Linux
+download files from the internet.
+20. whoami command in Linux
+Create or update passwords for existing users
+21. sort command in Linux
+sort the file content
+22. cal command in Linux
+View Calendar in terminal
+23. whereis command in Linux
+View the exact location of any command typed after this command
+24. df command in Linux
+Check the details of the file system
+25. wc command in Linux
+Check the lines, word count, and characters in a file using different options
+
+https://www.geeksforgeeks.org/basic-linux-commands/
